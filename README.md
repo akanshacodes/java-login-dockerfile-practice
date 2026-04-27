@@ -32,10 +32,7 @@ This is a **static Java-based web UI application** (frontend) which is:
 
 ## 🖼️ UI Preview
 
-![UI Preview](assets/ui-preview.png)
-
-> 💡 Tip: Add your screenshot in `assets/ui-preview.png`
-
+`<img width="1198" height="820" alt="Screenshot 2026-04-27 at 3 16 14 PM" src="https://github.com/user-attachments/assets/ebd35e67-f62b-4a08-870e-33075d4071e6" />
 ---
 
 ## 🧠 What You Will Learn
